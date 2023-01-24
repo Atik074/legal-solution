@@ -1,0 +1,23 @@
+.btn{
+    background: #B68C5A !important;
+}
+.fa-solid{
+    color: #B68C5A !important;
+}
+#bg-image{
+     background: url('./images/banner.png') no-repeat  !important;
+     height:35rem !important;
+     background-position: center center !important;
+
+}
+.legal-description{
+    padding:0 200px !important;
+}
+
+@media screen and (max-width:576px) {
+.common-padding{
+    padding: 0 !important;
+}
+}
+
+ 
